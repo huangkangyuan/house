@@ -1,0 +1,17 @@
+com\hl\house\common\utils\BeanHelper.class
+com\hl\house\common\model\Agency.class
+com\hl\house\common\page\PageParams.class
+com\hl\house\common\model\Blog.class
+com\hl\house\common\model\City.class
+com\hl\house\common\constants\HouseUserType.class
+com\hl\house\common\model\Comment.class
+com\hl\house\common\model\House.class
+com\hl\house\common\result\ResultMsg.class
+com\hl\house\common\page\Pagination.class
+com\hl\house\common\page\PageData.class
+com\hl\house\common\utils\HashUtils.class
+com\hl\house\common\model\Community.class
+com\hl\house\common\constants\CommonConstants.class
+com\hl\house\common\model\HouseUser.class
+com\hl\house\common\model\UserMsg.class
+com\hl\house\common\model\User.class
