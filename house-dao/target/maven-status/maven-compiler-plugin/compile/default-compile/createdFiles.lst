@@ -1,0 +1,16 @@
+com\hl\house\dao\mapper\HouseMapper.class
+com\hl\house\dao\service\MailService.class
+com\hl\house\dao\mapper\AgencyMapper.class
+com\hl\house\dao\config\DruidConfig.class
+com\hl\house\dao\mapper\BlogMapper.class
+com\hl\house\dao\service\AgencyService.class
+com\hl\house\dao\service\CityService.class
+com\hl\house\dao\service\HouseService.class
+com\hl\house\dao\service\FileService.class
+com\hl\house\dao\service\CommentService.class
+com\hl\house\dao\mapper\CommentMapper.class
+com\hl\house\dao\service\RecommendService.class
+com\hl\house\dao\service\BlogService.class
+com\hl\house\dao\service\UserService.class
+com\hl\house\dao\mapper\UserMapper.class
+com\hl\house\dao\service\MailService$1.class
